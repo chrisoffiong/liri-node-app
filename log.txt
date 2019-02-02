@@ -1,0 +1,95 @@
+
+
+LIRI Says:
+
+------------------------
+Song Name: Stronger
+Album Name: Graduation
+Artist Name: Kanye West
+Url Link: https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9
+------------------------
+
+LIRI Says:
+
+------------------------
+Title: The Matrix
+The movie's rating is: 8.7
+This movie came out in: 1999
+Country: USA
+------------------------
+
+LIRI Says:
+
+------------------------
+Title: The Matrix
+The movie's IMDB rating is: 8.7
+This movie's Rotten Tomatoe rating is: N/A
+This movie came out in: 1999
+Language: English
+Country: USA
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.------------------------
+
+LIRI Says:
+
+------------------------
+Title: The Matrix
+The movie's IMDB rating is: 8.7
+This movie's Rotten Tomatoe rating is: N/A
+This movie came out in: 1999
+Language: English
+Country: USA
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+------------------------
+
+LIRI Says:
+
+------------------------
+Title: The Matrix
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+The movie's IMDB rating is: 8.7
+This movie's Rotten Tomatoe rating is: N/A
+This movie came out in: 1999
+Language: English
+Country: USA
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+------------------------
+
+LIRI Says:
+
+------------------------
+Title: Undefined
+Actors: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
+The movie's IMDB rating is: 6.8
+This movie's Rotten Tomatoe rating is: N/A
+This movie came out in: 2006
+Language: English
+Country: USA
+Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping ...
+------------------------
+
+LIRI Says:
+
+------------------------
+Title: undefined
+Actors: undefined
+The movie's IMDB rating is: undefined
+This movie's Rotten Tomatoe rating is: undefined
+This movie came out in: undefined
+Language: undefined
+Country: undefined
+Plot: undefined
+------------------------
+
+LIRI Says:
+
+------------------------
+Title: Undefined
+Actors: Ralph Cooley, Phillip Enriquez, Gregory Labenz, Amy MacDonald
+The movie's IMDB rating is: 6.8
+This movie's Rotten Tomatoe rating is: N/A
+This movie came out in: 2006
+Language: English
+Country: USA
+Plot: An unfortunate accident sets in motion a path of change for Nathanial Cane as he attempts to recover from substance abuse. A mentally unstable psychiatrist, DR. Henry Calhoon is tipping ...
+------------------------
+
